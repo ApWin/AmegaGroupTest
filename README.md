@@ -1,4 +1,4 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+This is a Link for Android app: [`APK`](https://disk.yandex.com/d/U1U0MqzM4RBpZw).
 
 # Getting Started
 
